@@ -135,4 +135,3 @@ MIT License – bebas digunakan, dimodifikasi, dan disebarluaskan.
 
 **Dibuat dengan ☕ dan terminal di Linux Mint XFCE**  
 *Keep track, stay wealthy!*
-```
